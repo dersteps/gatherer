@@ -1,0 +1,194 @@
+{
+    "LEA": {
+        "name": "Limited Edition Alpha",
+        "mapping": {
+            "cardmarket": "Alpha"
+        }
+    },
+    "LEB": {
+        "name": "Limited Edition Beta",
+        "mapping": {
+            "cardmarket": "Beta"
+        }
+    },
+    "2ED": {
+        "name": "Unlimited Edition",
+        "mapping": {
+            "cardmarket": "Unlimited"
+        }
+    },
+    "CED": {
+        "name": "Collector's Edition",
+        "mapping": {
+            "cardmarket": "Collectors Edition"
+        }
+    },
+    "ARN": {
+        "name": "Arabian Nights",
+        "mapping": {
+            "cardmarket": "Arabian Nights"
+        }
+    },
+    "PDRC": {
+        "name": "Dragon Con",
+        "mapping": {
+            "cardmarket": "Dragon Con"
+        }
+    },
+    "ATQ": {
+        "name": "Antiquities",
+        "mapping": {
+            "cardmarket": "Antiquities"
+        }
+    },
+    "3ED": {
+        "name": "Revised Edition",
+        "mapping": {
+            "cardmarket": "Revised"
+        }
+    },
+    "LEG": {
+        "name": "Legends",
+        "mapping": {
+            "cardmarket": "Legends"
+        }
+    },
+    "SUM": {
+        "name": "Summer Magic",
+        "mapping": {
+            "cardmarket": "Summer Magic"
+        }
+    },
+    "DRK": {
+        "name": "The Dark",
+        "mapping": {
+            "cardmarket": "The Dark"
+        }
+    },
+    "FEM": {
+        "name": "Fallen Empires",
+        "mapping": {
+            "cardmarket": "Fallen Empires"
+        }
+    },
+    "4ED": {
+        "name": "Fourth Edition",
+        "mapping": {
+            "cardmarket": "Fourth Edition"
+        }
+    },
+    "ICE": {
+        "name": "Ice Age",
+        "mapping": {
+            "cardmarket": "Ice Age"
+        }
+    },
+    "CHR": {
+        "name": "Chronicles",
+        "mapping": {
+            "cardmarket": "Chronicles"
+        }
+    },
+    "REN": {
+        "name": "Renaissance",
+        "mapping": {
+            "cardmarket": "Renaissance"
+        }
+    },
+    "HML": {
+        "name": "Homelands",
+        "mapping": {
+            "cardmarket": "Homelands"
+        }
+    },
+    "ALL": {
+        "name": "Alliances",
+        "mapping": {
+            "cardmarket": "Alliances"
+        }
+    },
+    "MIR": {
+        "name": "Mirage",
+        "mapping": {
+            "cardmarket": "Mirage"
+        }
+    },
+    "VIS": {
+        "name": "Visions",
+        "mapping": {
+            "cardmarket": "Visions"
+        }
+    },
+    "5ED": {
+        "name": "Fifth Edition",
+        "mapping": {
+            "cardmarket": "Fifth Edition"
+        }
+    },
+    "POR": {
+        "name": "Portal",
+        "mapping": {
+            "cardmarket": "Portal"
+        }
+    },
+    "WTH": {
+        "name": "Weatherlight",
+        "mapping": {
+            "cardmarket": "Weatherlight"
+        }
+    },
+    "TMP": {
+        "name": "Tempest",
+        "mapping": {
+            "cardmarket": "Tempest"
+        }
+    },
+    "STH": {
+        "name": "Stronghold",
+        "mapping": {
+            "cardmarket": "Stronghold"
+        }
+    },
+    "EXO": {
+        "name": "Exodus",
+        "mapping": {
+            "cardmarket": "Exodus"
+        }
+    },
+    "UGL": {
+        "name": "Unglued",
+        "mapping": {
+            "cardmarket": "Unglued"
+        }
+    },
+    "USG": {
+        "name": "Urza's Saga",
+        "mapping": {
+            "cardmarket": "Urzas Saga"
+        }
+    },
+    "ATH": {
+        "name": "Anthologies",
+        "mapping": {
+            "cardmarket": "Anthologies"
+        }
+    },
+    "ULG": {
+        "name": "Urza's Legacy",
+        "mapping": {
+            "cardmarket": "Urzas Legacy"
+        }
+    },
+    "6ED": {
+        "name": "Sixth Edition",
+        "mapping": {
+            "cardmarket": "Sixth Edition"
+        }
+    },
+    "UDS": {
+        "name": "Urza's Destiny",
+        "mapping": {
+            "cardmarket": "Urzas Destiny"
+        }
+    }
+}
